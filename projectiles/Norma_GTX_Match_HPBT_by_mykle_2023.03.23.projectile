@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Norma" />
+    <var name="pname" value="GTX%20Match%20HPBT" />
+    <var name="lotid" value="" />
+    <var name="caliber" value=".264" />
+    <var name="gdia" value="6.71" />
+    <var name="glen" value="35.10" />
+    <var name="gmass" value="130.0" />
+    <var name="gpressure" value="250" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="6.71" />
+    <var name="gtailDiaB" value="5.30" />
+    <var name="gtailh" value="4.90" />
+    <var name="gtailType" value="2" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="0.548" />
+    <var name="g7bc" value="0.000" />
+    <var name="gUBCS" value="S0H1B2S4N1" />
+    <var name="cdate" value="2023-03-23" />
+    <var name="cby" value="mykle" />
+    <var name="mdate" value="" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="Data%20received%20from%20Norma.%20They%20were%20measured%20by%20caliper%20on%20the%20factory%2023.03.2023." />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

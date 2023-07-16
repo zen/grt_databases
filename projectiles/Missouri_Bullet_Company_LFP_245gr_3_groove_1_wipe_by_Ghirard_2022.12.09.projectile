@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Missouri%20Bullet%20Company" />
+    <var name="pname" value="LFP%20245gr%203%20groove%2C%201%20wipe" />
+    <var name="lotid" value="" />
+    <var name="caliber" value=".308" />
+    <var name="gdia" value="7.85" />
+    <var name="glen" value="33.65" />
+    <var name="gmass" value="245.0" />
+    <var name="gpressure" value="103" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="0.00" />
+    <var name="gtailDiaB" value="0.00" />
+    <var name="gtailh" value="0.00" />
+    <var name="gtailType" value="0" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="0.332" />
+    <var name="g7bc" value="0.000" />
+    <var name="gUBCS" value="D0L7F1D4N1" />
+    <var name="cdate" value="2022-11-01" />
+    <var name="cby" value="grtuser" />
+    <var name="mdate" value="" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="" />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

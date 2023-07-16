@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Berry%27s%20Bullets" />
+    <var name="pname" value="Spire%20Point" />
+    <var name="lotid" value="" />
+    <var name="caliber" value=".308" />
+    <var name="gdia" value="7.82" />
+    <var name="glen" value="34.29" />
+    <var name="gmass" value="220.0" />
+    <var name="gpressure" value="250" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="0.00" />
+    <var name="gtailDiaB" value="0.00" />
+    <var name="gtailh" value="0.00" />
+    <var name="gtailType" value="0" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="0.000" />
+    <var name="g7bc" value="0.000" />
+    <var name="gUBCS" value="S0T1F2S4N4" />
+    <var name="cdate" value="2022-11-21" />
+    <var name="cby" value="Airwolf" />
+    <var name="mdate" value="" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="https%3A%2F%2Fwww.berrysmfg.com%2Fproduct%2F300-aac-blkout-309-220gr-sp%0D%0DBullet%20O.A.L.%3A%201.350%22%0DCartridge%20Name%3A%20300%20AAC%20Blackout%C2%A0%0DCartridge%20O.A.L.%3A%202.150%22%0DMax%20Velocity%3A%201300%20fps%0D%0DBerry%27s%20Superior%20Plated%20Bullets%20are%20the%20finest%20bonded%20copper-jacketed%20bullets%20available%20today.%20Starting%20with%20a%20swaged%20lead%20core%2C%20they%20are%20electroplated%20with%20copper%20to%20their%20final%20weight%2C%20leaving%20no%20lead%20exposure.%20They%20are%20then%20re-struck%20to%20precise%20specifications%2C%20ensuring%20a%20solid%20bond%2C%20and%20providing%20consistency%20with%20every%20round.%20Indoor%20range%20safe%20and%20unbelievably%20accurate%2C%20Berry%27s%20Superior%20Plated%20Bullets%C2%AE%20are%20the%20choice%20of%20shooters%20everywhere.%0D%0DTHESE%20BULLETS%20ARE%20NOT%20RECOMMENDED%20FOR%20BARRELS%20WITH%20A%20FASTER%20TWIST%20RATE%20THAN%201%3A7%22." />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

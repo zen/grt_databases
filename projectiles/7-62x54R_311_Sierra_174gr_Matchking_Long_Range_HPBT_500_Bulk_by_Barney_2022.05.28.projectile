@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Sierra" />
+    <var name="pname" value="38%20213%20Matchking%20Long%20Range%20HPBT%205%20%28Bulk%29" />
+    <var name="lotid" value="2%20500000%20417344" />
+    <var name="caliber" value=".338" />
+    <var name="gdia" value="8.59" />
+    <var name="glen" value="43.61" />
+    <var name="gmass" value="299.0" />
+    <var name="gpressure" value="250" />
+    <var name="gtailDiaA" value="8.58" />
+    <var name="gtailDiaB" value="6.97" />
+    <var name="gtailh" value="6.74" />
+    <var name="gtailType" value="2" />
+    <var name="g1bc" value="0.755" />
+    <var name="g7bc" value="0.000" />
+    <var name="gUBCS" value="S1H1B2S4N4" />
+    <var name="cdate" value="2020-08-27" />
+    <var name="cby" value="Barney" />
+    <var name="mdate" value="2020-04-09" />
+    <var name="mby" value="grtuser" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="created%204%2F2020" />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

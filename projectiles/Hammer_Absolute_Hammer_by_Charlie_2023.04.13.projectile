@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Hammer" />
+    <var name="pname" value="Absolute%20Hammer" />
+    <var name="lotid" value="" />
+    <var name="caliber" value=".257" />
+    <var name="gdia" value="6.53" />
+    <var name="glen" value="26.67" />
+    <var name="gmass" value="90.0" />
+    <var name="gpressure" value="200" />
+    <var name="gfriction" value="-83" />
+    <var name="gtailDiaA" value="6.50" />
+    <var name="gtailDiaB" value="5.71" />
+    <var name="gtailh" value="3.53" />
+    <var name="gtailType" value="2" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="0.354" />
+    <var name="g7bc" value="0.177" />
+    <var name="gUBCS" value="H2H1B2D1N2" />
+    <var name="cdate" value="2023-04-12" />
+    <var name="cby" value="grtuser" />
+    <var name="mdate" value="2023-04-12" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="Ogive%20does%20not%20contact%20rifling%20with%20Absolute%20Hammer%20bullets" />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

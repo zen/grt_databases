@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Norma" />
+    <var name="pname" value="Bondstrike" />
+    <var name="lotid" value="" />
+    <var name="caliber" value=".308" />
+    <var name="gdia" value="7.82" />
+    <var name="glen" value="34.34" />
+    <var name="gmass" value="180.0" />
+    <var name="gpressure" value="250" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="7.82" />
+    <var name="gtailDiaB" value="6.60" />
+    <var name="gtailh" value="5.30" />
+    <var name="gtailType" value="2" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="0.615" />
+    <var name="g7bc" value="0.000" />
+    <var name="gUBCS" value="" />
+    <var name="cdate" value="2023-05-12" />
+    <var name="cby" value="grtuser" />
+    <var name="mdate" value="2023-05-12" />
+    <var name="mby" value="grtuser" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="QL%20imported%20data%2C%20missing%20variables%20were%20filled%20with%20default%20values" />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

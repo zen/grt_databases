@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Hornady" />
+    <var name="pname" value="SUB-X%2030718" />
+    <var name="lotid" value="" />
+    <var name="caliber" value=".308" />
+    <var name="gdia" value="7.82" />
+    <var name="glen" value="29.35" />
+    <var name="gmass" value="175.0" />
+    <var name="gpressure" value="250" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="7.82" />
+    <var name="gtailDiaB" value="6.05" />
+    <var name="gtailh" value="5.50" />
+    <var name="gtailType" value="0" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="0.300" />
+    <var name="g7bc" value="0.000" />
+    <var name="gUBCS" value="" />
+    <var name="cdate" value="2022-09-09" />
+    <var name="cby" value="grtuser" />
+    <var name="mdate" value="2022-09-09" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="9%2F9%2F2022%0D300%20Ham%27r%20bullet%20COAL%20soft%20touch%20%3D%202.200%22%2C%20hard%20COAL%20touch%20but%20not%20stuck%20%3D%202.220%22.%0D300%20Ham%27r%20bullet%20CBTO%20soft%20touch%20%3D%201.773%22%2C%20hard%20CBTO%20touch%20but%20not%20stuck%20%3D%201.793%22.%0D7.62x39%20bullet%20COAL%20soft%20toucj%20%3D%202.256%22.%0D7.62x39%20bullet%20CBTO%20soft%20touch%20%3D%201.833%22.%0DBBTO%20%3D%20.7245%22%0DSuitable%20for%2030-30%20at%20action%20COAL%20length%20of%202.555%22.%20%20This%20places%20neck%20mouth%20just%20below%20the%20cannelure.%0DSoft%20touch%20is%20approx.%202.671%22%2C%20way%20too%20long%20for%20use%20in%20magazine%2C%20single%20load%20only.%0D%0D" />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

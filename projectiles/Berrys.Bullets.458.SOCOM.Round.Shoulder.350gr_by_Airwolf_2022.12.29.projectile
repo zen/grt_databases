@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Berry%27s%20Bullets" />
+    <var name="pname" value=".458%20SOCOM%20Round%20Shoulder" />
+    <var name="lotid" value="" />
+    <var name="caliber" value=".458" />
+    <var name="gdia" value="11.63" />
+    <var name="glen" value="22.83" />
+    <var name="gmass" value="350.0" />
+    <var name="gpressure" value="250" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="0.00" />
+    <var name="gtailDiaB" value="0.00" />
+    <var name="gtailh" value="0.00" />
+    <var name="gtailType" value="0" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="0.000" />
+    <var name="g7bc" value="0.000" />
+    <var name="gUBCS" value="S0T2F2S4N4" />
+    <var name="cdate" value="2022-12-29" />
+    <var name="cby" value="Airwolf" />
+    <var name="mdate" value="" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="https%3A%2F%2Fwww.berrysmfg.com%2Fproduct%2F458-socom-458-350gr-rs" />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

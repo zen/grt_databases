@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Sierra" />
+    <var name="pname" value="TGK%204340" />
+    <var name="lotid" value="From%20screen" />
+    <var name="caliber" value=".264" />
+    <var name="gdia" value="6.71" />
+    <var name="glen" value="36.65" />
+    <var name="gmass" value="140.0" />
+    <var name="gpressure" value="250" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="6.71" />
+    <var name="gtailDiaB" value="5.08" />
+    <var name="gtailh" value="5.64" />
+    <var name="gtailType" value="2" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="0.563" />
+    <var name="g7bc" value="0.281" />
+    <var name="gUBCS" value="" />
+    <var name="cdate" value="2023-01-19" />
+    <var name="cby" value="grtuser" />
+    <var name="mdate" value="2023-01-19" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="Length%20Dimensions%20taken%20from%20Sierra%20screen%20image%20and%20tail%20dimensions%20estimated%20from%20130%20SMK%20on%20hand.%0DBC%20taken%20from%20Sierra%20screen.%0DThis%20is%20an%20estimate%20only%2C%20Users%20shoeld%20verify%20from%20stock%20on%20hand." />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

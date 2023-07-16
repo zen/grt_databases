@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Hornady" />
+    <var name="pname" value="A-Tip%20Match%20%2328506" />
+    <var name="lotid" value="" />
+    <var name="caliber" value=".284" />
+    <var name="gdia" value="7.21" />
+    <var name="glen" value="42.16" />
+    <var name="gmass" value="190.0" />
+    <var name="gpressure" value="250" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="7.21" />
+    <var name="gtailDiaB" value="5.94" />
+    <var name="gtailh" value="5.11" />
+    <var name="gtailType" value="2" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="0.838" />
+    <var name="g7bc" value="0.422" />
+    <var name="gUBCS" value="" />
+    <var name="cdate" value="2023-01-09" />
+    <var name="cby" value="grtuser" />
+    <var name="mdate" value="2023-01-09" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="Boattail%20dimensions%20scaled%20from%20Hornady%20website%20screen%20picture.%20%20Bullet%20length%20as%20shown%20on%20JBM%20https%3A%2F%2Fwww.jbmballistics.com%2Fballistics%2Flengths%2Flengths.shtml%23Hornady.%20%20" />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

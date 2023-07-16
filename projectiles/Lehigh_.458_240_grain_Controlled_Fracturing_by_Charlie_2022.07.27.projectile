@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Lehigh" />
+    <var name="pname" value="Controlled%20Fracturing" />
+    <var name="lotid" value="" />
+    <var name="caliber" value=".458" />
+    <var name="gdia" value="11.63" />
+    <var name="glen" value="26.67" />
+    <var name="gmass" value="240.0" />
+    <var name="gpressure" value="138" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="10.26" />
+    <var name="gtailDiaB" value="10.26" />
+    <var name="gtailh" value="3.94" />
+    <var name="gtailType" value="1" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="0.138" />
+    <var name="g7bc" value="0.000" />
+    <var name="gUBCS" value="" />
+    <var name="cdate" value="2022-07-27" />
+    <var name="cby" value="grtuser" />
+    <var name="mdate" value="" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="" />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

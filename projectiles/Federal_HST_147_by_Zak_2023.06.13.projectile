@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Federal" />
+    <var name="pname" value="HST" />
+    <var name="lotid" value="March%202023" />
+    <var name="caliber" value=".355" />
+    <var name="gdia" value="9.02" />
+    <var name="glen" value="17.30" />
+    <var name="gmass" value="148.2" />
+    <var name="gpressure" value="150" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="0.00" />
+    <var name="gtailDiaB" value="0.00" />
+    <var name="gtailh" value="0.00" />
+    <var name="gtailType" value="0" />
+    <var name="gdepthmax" value="28.19" />
+    <var name="g1bc" value="0.199" />
+    <var name="g7bc" value="0.000" />
+    <var name="gUBCS" value="D2H2F2C4N4" />
+    <var name="cdate" value="2023-06-13" />
+    <var name="cby" value="Zachary%20Jones" />
+    <var name="mdate" value="2023-06-13" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="American%20Reloading%20pulldowns%20from%20March%202023.%20Measurement%20sample%20size%20of%2020%20bullets." />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

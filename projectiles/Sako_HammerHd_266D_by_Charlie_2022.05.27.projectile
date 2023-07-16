@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Sako" />
+    <var name="pname" value="HammerHd%20266D" />
+    <var name="lotid" value="2021%2F10%2F29" />
+    <var name="caliber" value=".366" />
+    <var name="gdia" value="9.30" />
+    <var name="glen" value="32.20" />
+    <var name="gmass" value="286.0" />
+    <var name="gpressure" value="250" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="0.00" />
+    <var name="gtailDiaB" value="0.00" />
+    <var name="gtailh" value="0.00" />
+    <var name="gtailType" value="0" />
+    <var name="gdepthmax" value="16.50" />
+    <var name="g1bc" value="0.286" />
+    <var name="g7bc" value="0.000" />
+    <var name="gUBCS" value="" />
+    <var name="cdate" value="2021-11-22" />
+    <var name="cby" value="grtuser" />
+    <var name="mdate" value="" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="import" />
+    <var name="origin" value="" />
+    <var name="descr" value="measured%20Sako%20Hammerhead%20266D%0Dmost%20of%20the%20measurements%20inclined%20to%2032.2mm%20%2C%20some%20were%2032.3mm%0DSako%20diameters%20range%20on%20box%3A%209.26-9.28%20mm%0DEAN%20code%3A%206%20438053%20998779" />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

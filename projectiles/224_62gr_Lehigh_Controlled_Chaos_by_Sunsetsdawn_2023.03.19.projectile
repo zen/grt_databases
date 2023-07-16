@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Lehigh%20Defense" />
+    <var name="pname" value="Controlled%20Chaos" />
+    <var name="lotid" value="" />
+    <var name="caliber" value=".224" />
+    <var name="gdia" value="5.69" />
+    <var name="glen" value="23.62" />
+    <var name="gmass" value="62.0" />
+    <var name="gpressure" value="250" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="5.65" />
+    <var name="gtailDiaB" value="5.21" />
+    <var name="gtailh" value="2.24" />
+    <var name="gtailType" value="2" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="0.282" />
+    <var name="g7bc" value="0.000" />
+    <var name="gUBCS" value="H2H1B1C1N2" />
+    <var name="cdate" value="2023-03-17" />
+    <var name="cby" value="grtuser" />
+    <var name="mdate" value="2023-03-17" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="Copper%20Monolithic" />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

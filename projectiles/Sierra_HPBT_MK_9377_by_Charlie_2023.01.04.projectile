@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Sierra" />
+    <var name="pname" value="HPBT%20MK%209377" />
+    <var name="lotid" value="" />
+    <var name="caliber" value=".224" />
+    <var name="gdia" value="5.69" />
+    <var name="glen" value="25.26" />
+    <var name="gmass" value="77.0" />
+    <var name="gpressure" value="250" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="5.69" />
+    <var name="gtailDiaB" value="4.50" />
+    <var name="gtailh" value="3.42" />
+    <var name="gtailType" value="2" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="0.372" />
+    <var name="g7bc" value="0.190" />
+    <var name="gUBCS" value="" />
+    <var name="cdate" value="2021-12-27" />
+    <var name="cby" value="grtuser" />
+    <var name="mdate" value="2022-06-29" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="6%2F29%2F2022%20Jam%20by%20force%20seating%20bullet%20in%20chamber%20%3D%20COAL%202.480%22%20or%20CBTO%202.077%22%20in%20Savage." />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Berger" />
+    <var name="pname" value="Hybrid%20Target%2024585" />
+    <var name="lotid" value="" />
+    <var name="caliber" value=".257" />
+    <var name="gdia" value="6.53" />
+    <var name="glen" value="35.97" />
+    <var name="gmass" value="135.0" />
+    <var name="gpressure" value="250" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="6.50" />
+    <var name="gtailDiaB" value="5.50" />
+    <var name="gtailh" value="5.49" />
+    <var name="gtailType" value="2" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="0.650" />
+    <var name="g7bc" value="0.334" />
+    <var name="gUBCS" value="" />
+    <var name="cdate" value="2023-07-12" />
+    <var name="cby" value="grtuser" />
+    <var name="mdate" value="2023-07-12" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="Directly%20from%20the%20Berger%20website." />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

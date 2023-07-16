@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Hornady" />
+    <var name="pname" value="Sub-X%20%20%2345031" />
+    <var name="lotid" value="Lot%23%202212668" />
+    <var name="caliber" value=".452" />
+    <var name="gdia" value="11.48" />
+    <var name="glen" value="28.22" />
+    <var name="gmass" value="395.0" />
+    <var name="gpressure" value="210" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="0.00" />
+    <var name="gtailDiaB" value="0.00" />
+    <var name="gtailh" value="0.00" />
+    <var name="gtailType" value="0" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="0.300" />
+    <var name="g7bc" value="0.000" />
+    <var name="gUBCS" value="" />
+    <var name="cdate" value="2022-09-09" />
+    <var name="cby" value="grtuser" />
+    <var name="mdate" value="2022-09-09" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="BBTO%20%3D%20.442%22" />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

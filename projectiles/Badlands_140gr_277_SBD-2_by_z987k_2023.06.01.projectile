@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Badlands" />
+    <var name="pname" value="140gr%20277%20SBD-2" />
+    <var name="lotid" value="" />
+    <var name="caliber" value=".277" />
+    <var name="gdia" value="7.04" />
+    <var name="glen" value="39.71" />
+    <var name="gmass" value="140.0" />
+    <var name="gpressure" value="150" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="7.01" />
+    <var name="gtailDiaB" value="5.84" />
+    <var name="gtailh" value="7.19" />
+    <var name="gtailType" value="2" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="0.650" />
+    <var name="g7bc" value="0.333" />
+    <var name="gUBCS" value="H2B1B1D1N2" />
+    <var name="cdate" value="2022-08-19" />
+    <var name="cby" value="grtuser" />
+    <var name="mdate" value="2022-11-16" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="" />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

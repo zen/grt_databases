@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Lehigh" />
+    <var name="pname" value="380gr%20ELR%20Bullet" />
+    <var name="lotid" value="04375380SP%20.375%20Cal%20380gr%20ELR%20Bullet%20%2F%20LOT%2021173" />
+    <var name="caliber" value=".375" />
+    <var name="gdia" value="9.52" />
+    <var name="glen" value="58.23" />
+    <var name="gmass" value="379.6" />
+    <var name="gpressure" value="560" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="8.03" />
+    <var name="gtailDiaB" value="9.51" />
+    <var name="gtailh" value="7.80" />
+    <var name="gtailType" value="2" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="1.145" />
+    <var name="g7bc" value="0.000" />
+    <var name="gUBCS" value="S0F1B2D1C2" />
+    <var name="cdate" value="2021-10-26" />
+    <var name="cby" value="Barney" />
+    <var name="mdate" value="" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="Own%20measurements..." />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Barnes" />
+    <var name="pname" value="LRX%20BT%2030479" />
+    <var name="lotid" value="R001089-2%20110v%20JW-M" />
+    <var name="caliber" value=".257" />
+    <var name="gdia" value="6.53" />
+    <var name="glen" value="30.70" />
+    <var name="gmass" value="101.0" />
+    <var name="gpressure" value="350" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="6.50" />
+    <var name="gtailDiaB" value="5.80" />
+    <var name="gtailh" value="3.60" />
+    <var name="gtailType" value="2" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="0.400" />
+    <var name="g7bc" value="0.000" />
+    <var name="gUBCS" value="" />
+    <var name="cdate" value="2022-05-28" />
+    <var name="cby" value="Z" />
+    <var name="mdate" value="" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="" />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>

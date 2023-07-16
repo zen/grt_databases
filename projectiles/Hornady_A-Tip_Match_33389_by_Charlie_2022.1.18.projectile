@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <projectilefile>
+    <var name="mname" value="Hornady" />
+    <var name="pname" value="A-Tip%20Match%2033389" />
+    <var name="lotid" value="2221220" />
+    <var name="caliber" value=".338" />
+    <var name="gdia" value="8.59" />
+    <var name="glen" value="47.50" />
+    <var name="gmass" value="300.0" />
+    <var name="gpressure" value="360" />
+    <var name="gfriction" value="0" />
+    <var name="gtailDiaA" value="8.59" />
+    <var name="gtailDiaB" value="6.79" />
+    <var name="gtailh" value="7.05" />
+    <var name="gtailType" value="2" />
+    <var name="gdepthmax" value="0.00" />
+    <var name="g1bc" value="0.863" />
+    <var name="g7bc" value="0.435" />
+    <var name="gUBCS" value="" />
+    <var name="cdate" value="2022-06-30" />
+    <var name="cby" value="grtuser" />
+    <var name="mdate" value="2022-11-17" />
+    <var name="mby" value="" />
+    <var name="type" value="" />
+    <var name="mode" value="userfile" />
+    <var name="status" value="" />
+    <var name="origin" value="" />
+    <var name="descr" value="Created%20by%20M289%20with%20help%20from%20Howland%20and%20SIDS01%20from%20Sniper%27s%20Hide%20Forums." />
+    <var name="imageUuid" value="" />
+  </projectilefile>
+</GordonsReloadingTool>
