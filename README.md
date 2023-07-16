@@ -6,19 +6,23 @@ This repository contains calibers, projectiles, powder models and loads shared b
 
 **Measurements have to be verified!**
 
-## GRT
+All collected data denotes user that shared the file and date of sharing, so you can track it. Note: user sharing data is not necessary the author of the model!
 
-CHeck the [project website](https://www.grtools.de/doku.php?id=start).
+## GRT Sofware and project
+
+Check the [project website](https://www.grtools.de/doku.php?id=start).
+
+Gordons Reloading Tool is a modern professional internal ballistic simulation for reloaders.
 
 Please join Discord server
 
 [![](https://dcbadge.vercel.app/api/server/XYsDDSj6sC)](https://discord.gg/XYsDDSj6sC)
 
-## Tools
+### Tools
 
-Variuos tools created by GRT users and shared publicly
+Various tools created by GRT users and shared publicly.
 
-### iCorrect
+#### iCorrect
 
 Look at `tools/iCorrect.cmd`
 
