@@ -8,7 +8,7 @@ This repository contains calibers, projectiles, powder models and loads shared b
 
 All collected data denotes user that shared the file and date of sharing, so you can track it. Note: user sharing data is not necessary the author of the model!
 
-## GRT Sofware and project
+## GRT Software and project
 
 Check the [project website](https://www.grtools.de/doku.php?id=start).
 
@@ -17,6 +17,10 @@ Gordons Reloading Tool is a modern professional internal ballistic simulation fo
 Please join Discord server
 
 [![](https://dcbadge.vercel.app/api/server/XYsDDSj6sC)](https://discord.gg/XYsDDSj6sC)
+
+## How to use files from this repository
+
+TODO
 
 ### Tools
 
