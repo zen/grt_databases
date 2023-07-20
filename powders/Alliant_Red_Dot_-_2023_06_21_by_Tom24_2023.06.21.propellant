@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <propellantfile>
+    <var name="mname" value="Alliant" unit="" type="string" descr="propellant manufacturer" />
+    <var name="pname" value="Red%20Dot" unit="" type="string" descr="propellant product name" />
+    <var name="lotid" value="2023%2F06%2F21" unit="" type="string" descr="lot-id/no." />
+    <var name="Bp" value="1.3166" unit="" type="decimal" descr="progressivity factor" />
+    <var name="Br" value="1.0246" unit="" type="decimal" descr="brisance factor" />
+    <var name="Brp" value="1.1797" unit="" type="decimal" descr="combined brisance/progressivity factor" />
+    <var name="Ba" value="3.4" unit="" type="decimal" descr="vivacity coefficient" />
+    <var name="Qex" value="4538" unit="kJ/kg" type="decimal" descr="specific explosive heat" />
+    <var name="k" value="1.2205" unit="" type="decimal" descr="ratio of the specific heat of the powder gases" />
+    <var name="a0" value="5.3606" unit="" type="decimal" descr="Ba(phi) coefficient 0" />
+    <var name="z1" value="0.1899" unit="" type="decimal" descr="burn-up limit z1" />
+    <var name="z2" value="0.3999" unit="" type="decimal" descr="burn-up limit z2" />
+    <var name="eta" value="1" unit="cm3/g" type="decimal" descr="covolume of the powder gases" />
+    <var name="pc" value="1640" unit="kg/m3" type="decimal" descr="material density" />
+    <var name="pcd" value="458" unit="kg/m3" type="decimal" descr="bulk density" />
+    <var name="pt" value="21" unit="Cel" type="decimal" descr="propellant temperature" />
+    <var name="tcc" value="0" unit="" type="decimal" descr="cold temperature coefficient" />
+    <var name="tch" value="0" unit="" type="decimal" descr="hot temperature coefficient" />
+    <var name="Qlty" value="0" unit="" type="decimal" descr="model development/quality" />
+    <var name="cdate" value="2023-06-21" unit="" type="string" descr="creation date" />
+    <var name="cby" value="grtuser" unit="" type="string" descr="created by" />
+    <var name="mdate" value="2023-06-21" unit="" type="string" descr="last modification date" />
+    <var name="mby" value="2023-06-21" unit="" type="string" descr="last modified by" />
+    <var name="origin" value="GRT" unit="" type="string" descr="data origin" />
+    <var name="descr" value="QL%20Clone%21%21" unit="" type="string" descr="note/description" />
+    <var name="imageUuid" value="" unit="" type="string" descr="image/picture UUID" />
+    <var name="imageDetailUuid" value="" unit="" type="string" descr="image/picture UUID" />
+  </propellantfile>
+</GordonsReloadingTool>

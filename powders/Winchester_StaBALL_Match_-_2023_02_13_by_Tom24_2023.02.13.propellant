@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GordonsReloadingTool>
+  <propellantfile>
+    <var name="mname" value="Winchester" unit="" type="string" descr="propellant manufacturer" />
+    <var name="pname" value="StaBALL%20Match" unit="" type="string" descr="propellant product name" />
+    <var name="lotid" value="2023%2F02%2F13" unit="" type="string" descr="lot-id/no." />
+    <var name="Bp" value="0.1995" unit="" type="decimal" descr="progressivity factor" />
+    <var name="Br" value="0.131" unit="" type="decimal" descr="brisance factor" />
+    <var name="Brp" value="0.1688" unit="" type="decimal" descr="combined brisance/progressivity factor" />
+    <var name="Ba" value="0.56" unit="" type="decimal" descr="vivacity coefficient" />
+    <var name="Qex" value="3700" unit="kJ/kg" type="decimal" descr="specific explosive heat" />
+    <var name="k" value="1.2" unit="" type="decimal" descr="ratio of the specific heat of the powder gases" />
+    <var name="a0" value="5.2232" unit="" type="decimal" descr="Ba(phi) coefficient 0" />
+    <var name="z1" value="0.4296" unit="" type="decimal" descr="burn-up limit z1" />
+    <var name="z2" value="0.8867" unit="" type="decimal" descr="burn-up limit z2" />
+    <var name="eta" value="1" unit="cm3/g" type="decimal" descr="covolume of the powder gases" />
+    <var name="pc" value="1600" unit="kg/m3" type="decimal" descr="material density" />
+    <var name="pcd" value="890" unit="kg/m3" type="decimal" descr="bulk density" />
+    <var name="pt" value="21" unit="Cel" type="decimal" descr="propellant temperature" />
+    <var name="tcc" value="0" unit="" type="decimal" descr="cold temperature coefficient" />
+    <var name="tch" value="0" unit="" type="decimal" descr="hot temperature coefficient" />
+    <var name="Qlty" value="0" unit="" type="decimal" descr="model development/quality" />
+    <var name="cdate" value="2023-02-13" unit="" type="string" descr="creation date" />
+    <var name="cby" value="grtuser" unit="" type="string" descr="created by" />
+    <var name="mdate" value="2023-02-13" unit="" type="string" descr="last modification date" />
+    <var name="mby" value="2023-02-13" unit="" type="string" descr="last modified by" />
+    <var name="origin" value="GRT" unit="" type="string" descr="data origin" />
+    <var name="descr" value="Based%20on%20Hodgdon%20Reloading%20Data%20website.%0DCartridges%20considered%3A%0D6.5%20Creedmoor%0D.270%20Win%0D.308%20Win" unit="" type="string" descr="note/description" />
+    <var name="imageUuid" value="" unit="" type="string" descr="image/picture UUID" />
+    <var name="imageDetailUuid" value="" unit="" type="string" descr="image/picture UUID" />
+  </propellantfile>
+</GordonsReloadingTool>
